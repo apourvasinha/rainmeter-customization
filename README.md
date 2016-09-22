@@ -29,6 +29,12 @@ My skins are adopted from the post of the deviantart by the user edreyes which c
 
 ## Layout
 
-You can compare to my desktop screenshot as a reference:
+You can use my desktop screenshot as a reference:
 
 ![alt-tag](my-rainmeter-customization.png)
+
+
+<br>
+
+##[Note]
+In case if the owner of these files have any problem, please let me know, I'll remove his/her file. This is just for my personal use, I'm not distributing or selling theese files & folders in any sense.
