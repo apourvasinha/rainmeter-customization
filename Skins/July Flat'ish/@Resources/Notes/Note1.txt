@@ -1,0 +1,3 @@
+[Variables]
+Align=center
+Text='Note me, oniichan :3'
