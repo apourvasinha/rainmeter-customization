@@ -33,7 +33,7 @@ My skins are adopted from the post of the deviantart by the user edreyes which c
 
 You can use my desktop screenshot as a reference:
 
-![alt-tag](my-rainmeter-customization.png)
+![alt-tag](my_rainmeter_customization.png)
 
 
 <br>
